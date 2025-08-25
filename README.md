@@ -99,14 +99,12 @@
             </div>
             <div class="ACHIEVEMENT">
                 <ul>
-                    <li>
                         <h2>ACHIEVEMENT</h2>
                         <p>CENTRAL COALFIELD LIMITED </p></li>
                             <p> Material Monitoring and Finance. </p></li>
                                 <li> To Updating the Absolute Data and Finance Data. </li>
                                 <li> And To Create The Order Sheet For Deploy The Payment. </li>
                                 <li> Certificate. </li>
-                    <li>
                         <div class="CERTIFICATIONS">
                          <ul>
                                <h2>CERTIFICATIONS </h2>
