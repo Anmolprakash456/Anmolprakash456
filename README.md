@@ -72,7 +72,7 @@
                       design and development.</li>
                     <li>Designing project & planning</li>
                 </ul>
-                <h3>Ranchi desine and consultancy Pvt.Ltd - junior web developer</h3>
+                <h3> Neural x-smart Learning App</h3>
                 <p>August 2021 to December 2021</p>
                 <ul>
                     <li>Actively engaged in web creative
