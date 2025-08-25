@@ -105,7 +105,7 @@
                     </tr>
                     <tr>
                         <td>University College of Engineering and Technology,VBU</td>
-                        <tb> B.Tech in Information Technology </tb>
+                        <td> B.Tech in Information Technology </td>
                         <td>2025</td>
                         <td>7.1</td>
                     </tr>
