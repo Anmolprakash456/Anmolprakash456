@@ -109,7 +109,6 @@
                     <li>
                         <div class="CERTIFICATIONS">
                          <ul>
-                              <li>
                                <h2>CERTIFICATIONS </h2>
                                <li><b> Java </b></li>
                                <li><b> Website Development- Basic to Advance </b></li>
@@ -119,7 +118,6 @@
                                <li><b> Excel-Data Analysis </b></li>
                                <li><b> Power BI-Data Analysis</b></li>
                                <li><b> HTML, CSS, & JavaScript </b></li>
-                                  </li>
                 </ul>
             </div>
         </div>
