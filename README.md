@@ -114,13 +114,11 @@
                     </tr>
                 </table>
             </div>
-            <div class="project">
+            <div class="ACHIEVEMENT">
                 <ul>
                     <li>
-                        <h2>Project1</h2>
-                        <p>This project is based on html
-                          & used React</p>
-                    </li>
+                        <h2>ACHIEVEMENT</h2>
+                        <p>CENTRAL COALFIELD LIMITED </p></li> 
                     <li>
                         <h2>Project2</h2>
                         <p>This project is based on html
