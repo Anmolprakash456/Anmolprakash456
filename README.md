@@ -51,21 +51,7 @@
                     <li>Swimming</li>
                 </ul>
             </div>
-        </div>
-        <div class="right">
-            <div class="name">
-                <h1>online</h1>
-            </div>
-            <div class="title">
-                <p>Web Developer</p>
-            </div>
-            <div class="Summary">
-                <h2>Summary</h2>
-                <p>To secure a challenging position in a
-                  reputable organization
-                    to expand my learning knowledge and skill
-                </p>
-            </div>
+    </div>
             <div class="PROJECT">
                 <h2>PROJECT</h2>
                 <h3>Bitcoin Price Prediction </h3>
@@ -87,12 +73,12 @@
                     <li>Collabrated in a team of 5 to build and deploy a secure backend using Firebase Authentication and firestore, ensuring scalable user managemant
                     and real-time data handling for 100+ potential users. </li>
                 </ul>
-             <h4> Amazon Sales Analysis </h4>
-             <p>June 2024</p>
+              <h4> Amazon Sales Analysis </h4>
+              <p>June 2024</p>
                 </ul>
-             <li>Construction REST APIs with Python to expose key sales matrics derived from 50,000 Amazon transactions stored in My SQL, enabling real-time data 
+               <li>Construction REST APIs with Python to expose key sales matrics derived from 50,000 Amazon transactions stored in My SQL, enabling real-time data 
              access for downstream microservices instantly.</li>
-             <li>Visualized key sales trends and patterns using Matplotlib, enabling clearer interpretation of over 50,000 data points and supporting data-driven decision-making.</li>
+                <li>Visualized key sales trends and patterns using Matplotlib, enabling clearer interpretation of over 50,000 data points and supporting data-driven decision-making.</li>
             </div>
             <div class="Education">
                 <h2>Education</h2>
@@ -115,12 +101,25 @@
                 <ul>
                     <li>
                         <h2>ACHIEVEMENT</h2>
-                        <p>CENTRAL COALFIELD LIMITED </p></li> 
+                        <p>CENTRAL COALFIELD LIMITED </p></li>
+                            <p> Material Monitoring and Finance. </p></li>
+                                <li> To Updating the Absolute Data and Finance Data. </li>
+                                <li> And To Create The Order Sheet For Deploy The Payment. </li>
+                                <li> Certificate. </li>
                     <li>
-                        <h2>Project2</h2>
-                        <p>This project is based on html
-                          & used React</p>
-                    </li>
+                        <div class="CERTIFICATIONS">
+                         <ul>
+                              <li>
+                               <h2>CERTIFICATIONS </h2>
+                               <li><b> Java </b></li>
+                               <li><b> Website Development- Basic to Advance </b></li>
+                               <li><b> Python </b></li>
+                               <li><b> IOS & Swift-IOS App Development </b></li>
+                               <li><b> SQL </b></li>
+                               <li><b> Excel-Data Analysis </b></li>
+                               <li><b> Power BI-Data Analysis</b></li>
+                               <li><b> HTML, CSS, & JavaScript </b></li>
+                                  </li>
                 </ul>
             </div>
         </div>
