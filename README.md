@@ -72,7 +72,7 @@
                     customization.</li>
                     <li>Collabrated in a team of 5 to build and deploy a secure backend using Firebase Authentication and firestore, ensuring scalable user managemant
                     and real-time data handling for 100+ potential users. </li>
-                </ul>
+              </ul>
               <h4> Amazon Sales Analysis </h4>
               <p>June 2024</p>
                 </ul>
@@ -97,17 +97,17 @@
                     </tr>
                 </table>
             </div>
-            <div class="ACHIEVEMENT">
-         <ul>
-              <h2>ACHIEVEMENT</h2>
+                 <div class="ACHIEVEMENT">
+                 <ul>
+                 <h2>ACHIEVEMENT</h2>
                         <p>CENTRAL COALFIELD LIMITED </p></li>
                             <p> Material Monitoring and Finance. </p></li>
                                 <li> To Updating the Absolute Data and Finance Data. </li>
                                 <li> And To Create The Order Sheet For Deploy The Payment. </li>
                                 <li> Certificate. </li>
              <div class="CERTIFICATIONS">
-           <ul>
-                <h2>CERTIFICATIONS </h2>
+             <ul>
+             <h2>CERTIFICATIONS </h2>
                                <li><b> Java </b></li>
                                <li><b> Website Development- Basic to Advance </b></li>
                                <li><b> Python </b></li>
