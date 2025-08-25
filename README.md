@@ -24,14 +24,17 @@
                 <p><b>Email id:</b>anmolprakash0544@gmail.com</p>
                 <p><b>Mobile no :</b>7209471541</p>
             </div>
-            <div class="Skills">
-                <h2>Skills</h2>
+            <div class="COURSEWORK / SKILLS">
+                <h2>COURSEWORK / SKILLS </h2>
                 <ul>
-                    <li><b>Programming Languages :
-                      Python, Java, C++</b></li>
-                    <li><b>Frontend : HTML5, CSS3,
-                      JavaScript, React</b></li>
-                    <li><b>Backend : Node.js</b></li>
+                    <li><b> Data Analytics / Data Science </b></li>
+                    <li><b> Machine Learning </b></li>
+                    <li><b> Artificial Intelligence </b></li>
+                 <li><b> Web Development </b></li>
+                 <li><b> Operating Systems </b></li>
+                 <li><b> Database Management system(DBMS)</b></li>
+                 <li><b> OOPS Concept </b></li>
+                 <li><b> Software Engineering </b></li>
                 </ul>
             </div>
             <div class="Language">
@@ -63,23 +66,33 @@
                     to expand my learning knowledge and skill
                 </p>
             </div>
-            <div class="Experience">
-                <h2>Experience</h2>
-                <h3>Ranchi desine and consultancy Pvt.Ltd - Senior Web Developer</h3>
-                <p>January 2022 to Present</p>
+            <div class="PROJECT">
+                <h2>PROJECT</h2>
+                <h3>Bitcoin Price Prediction </h3>
+                <p>June 2024</p>
                 <ul>
-                    <li>Actively engaged in web creative
-                      design and development.</li>
-                    <li>Designing project & planning</li>
+                    <li>Implemented a responsive web application for Bitcoin price predection using HTML, CSS, and JavaScript, achieving 95% mobile compatibility and reducing
+                     load time by 30%.</li>
+                    <li>Built the backend using Flask and developed a REST API to deliver real-time Bitcoin price predictions, improving system efficiency by 40% and enabling
+                    scalable integration with frontend components.</li>
+                 <li>Conducted research to identify the most effective algorithm for predicting Bitcoin prices.</li>
                 </ul>
                 <h3> Neural x-smart Learning App</h3>
-                <p>August 2021 to December 2021</p>
+                <p>June 2025</p>
                 <ul>
-                    <li>Actively engaged in web creative
-                      design and development.</li>
-                    <li>Designing project & planning</li>
-                    <li>Working on designing</li>
+                    <li>Architected a React Native application with Expo for cross-platform cource creation, enabling a streamlined user experience across both 
+                     Android and iOS devices; desined 30+ cource templates.</li>
+                    <li>Integrated OpenAI Grok model via API to generate Personalized course content base on user prompts,increasing user engegement through AI-powered 
+                    customization.</li>
+                    <li>Collabrated in a team of 5 to build and deploy a secure backend using Firebase Authentication and firestore, ensuring scalable user managemant
+                    and real-time data handling for 100+ potential users. </li>
                 </ul>
+             <h4> Amazon Sales Analysis </h4>
+             <p>June 2024</p>
+                </ul>
+             <li>Construction REST APIs with Python to expose key sales matrics derived from 50,000 Amazon transactions stored in My SQL, enabling real-time data 
+             access for downstream microservices instantly.</li>
+             <li>Visualized key sales trends and patterns using Matplotlib, enabling clearer interpretation of over 50,000 data points and supporting data-driven decision-making.</li>
             </div>
             <div class="Education">
                 <h2>Education</h2>
