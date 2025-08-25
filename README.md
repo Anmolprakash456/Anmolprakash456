@@ -99,11 +99,13 @@
                 <table>
                     <tr>
                         <th>University/college  </th>
+                        <th>Cource </th> 
                         <th>Passing year  </th>
                         <th>percentage/cgpa</th>
                     </tr>
                     <tr>
                         <td>University College of Engineering and Technology,VBU</td>
+                        <tb> B.Tech in Information Technology </tb>
                         <td>2025</td>
                         <td>7.1</td>
                     </tr>
