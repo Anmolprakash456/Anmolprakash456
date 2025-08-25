@@ -103,14 +103,9 @@
                         <th>percentage/cgpa</th>
                     </tr>
                     <tr>
-                        <td>university college of engineeing</td>
-                        <td>2021</td>
-                        <td>8.9</td>
-                    </tr>
-                    <tr>
-                        <td>markham collage of commerce</td>
-                        <td>2019</td>
-                        <td>89%</td>
+                        <td>University College of Engineering and Technology,VBU</td>
+                        <td>2025</td>
+                        <td>7.1</td>
                     </tr>
                 </table>
             </div>
